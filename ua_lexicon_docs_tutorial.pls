@@ -25,7 +25,7 @@
   <!-- натИснути -->
   <lexeme>
     <grapheme>натиснути</grapheme>
-    <phoneme>nɐˈtɪsnutɪ</phoneme>
+    <phoneme>nɐtɪsˈnutɪ</phoneme>
   </lexeme>
 
   <!-- шаблОнів -->
@@ -59,5 +59,6 @@
   </lexeme>
 
 </lexicon>
+
 
 
