@@ -31,7 +31,7 @@
   <!-- шаблОнів -->
   <lexeme>
     <grapheme>шаблонів</grapheme>
-    <phoneme>ʃɐbloˈnʲiv</phoneme>
+    <phoneme>ʃɐbloˈniv</phoneme>
   </lexeme>
 
   <!-- полЯ (мн.) -->
@@ -43,7 +43,7 @@
   <!-- впорядкОвані -->
   <lexeme>
     <grapheme>впорядковані</grapheme>
-    <phoneme>vpɔrʲɐdˈkovɐnʲi</phoneme>
+    <phoneme>vpɔrʲɐdˈkovɐni</phoneme>
   </lexeme>
 
   <!-- загу́бляться -->
@@ -55,10 +55,11 @@
   <!-- вікнА (род. одн.) -->
   <lexeme>
     <grapheme>вікна</grapheme>
-    <phoneme>ʋiknaˈ</phoneme>
+    <phoneme>viknaˈ</phoneme>
   </lexeme>
 
 </lexicon>
+
 
 
 
