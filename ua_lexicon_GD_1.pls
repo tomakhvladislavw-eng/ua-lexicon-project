@@ -31,7 +31,7 @@
   <!-- шаблОнів -->
   <lexeme>
     <grapheme>шаблонів</grapheme>
-    <phoneme>ʃɐbloˈnjiv</phoneme>
+    <phoneme>ʃɐbloˈniːv</phoneme>
   </lexeme>
 
   <!-- полЯ (мн.) -->
@@ -59,6 +59,7 @@
   </lexeme>
 
 </lexicon>
+
 
 
 
