@@ -10,55 +10,56 @@
     <phoneme>ˈprɪstrojʊ</phoneme>
   </lexeme>
 
-  <!-- спОсоби -->
+  <!-- способи -->
   <lexeme>
     <grapheme>способи</grapheme>
     <phoneme>ˈspɔsɔbɪ</phoneme>
   </lexeme>
 
-  <!-- стрІлка -->
+  <!-- стрілка -->
   <lexeme>
     <grapheme>стрілка</grapheme>
     <phoneme>ˈstrʲilka</phoneme>
   </lexeme>
 
-  <!-- натИснути -->
+  <!-- натиснути -->
   <lexeme>
     <grapheme>натиснути</grapheme>
     <phoneme>nɐ.ˈtɪs.nu.tɪ</phoneme>
   </lexeme>
 
-  <!-- шаблОнів -->
+  <!-- шаблонів -->
   <lexeme>
     <grapheme>шаблонів</grapheme>
     <phoneme>ʃɐbloˈniːv</phoneme>
   </lexeme>
 
-  <!-- полЯ (мн.) -->
+  <!-- поля (мн.) -->
   <lexeme>
     <grapheme>поля</grapheme>
     <phoneme>pɔˈlja</phoneme>
   </lexeme>
 
-  <!-- впорядкОвані -->
+  <!-- впорядковані -->
   <lexeme>
     <grapheme>впорядковані</grapheme>
     <phoneme>vpɔrʲɐdˈkovɐni</phoneme>
   </lexeme>
 
-  <!-- загу́бляться -->
+  <!-- загубляться -->
   <lexeme>
     <grapheme>загубляться</grapheme>
     <phoneme>zaˈɦublʲat͡sʲa</phoneme>
   </lexeme>
 
-  <!-- вікнА (род. одн.) -->
+  <!-- вікна (род. одн.) -->
   <lexeme>
     <grapheme>вікна</grapheme>
     <phoneme>viknaˈ</phoneme>
   </lexeme>
 
 </lexicon>
+
 
 
 
