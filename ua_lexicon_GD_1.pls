@@ -37,7 +37,7 @@
   <!-- полЯ (мн.) -->
   <lexeme>
     <grapheme>поля</grapheme>
-    <phoneme>pɔˈlʲa</phoneme>
+    <phoneme>pɔˈlja</phoneme>
   </lexeme>
 
   <!-- впорядкОвані -->
@@ -59,6 +59,7 @@
   </lexeme>
 
 </lexicon>
+
 
 
 
