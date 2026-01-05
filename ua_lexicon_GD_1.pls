@@ -31,7 +31,7 @@
   <!-- шаблонів -->
   <lexeme>
     <grapheme>шаблонів</grapheme>
-    <phoneme>ʃɐbloˈniːv</phoneme>
+    <phoneme>ʃɐbˈloniːv</phoneme>
   </lexeme>
 
   <!-- поля (мн.) -->
@@ -55,10 +55,11 @@
   <!-- вікна (род. одн.) -->
   <lexeme>
     <grapheme>вікна</grapheme>
-    <phoneme>vi:knaˈ</phoneme>
+    <phoneme>ˈvi:kna</phoneme>
   </lexeme>
 
 </lexicon>
+
 
 
 
