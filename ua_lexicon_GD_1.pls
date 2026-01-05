@@ -37,19 +37,19 @@
   <!-- поля (мн.) -->
   <lexeme>
     <grapheme>поля</grapheme>
-    <phoneme>pɔlˈʲɐ</phoneme>
+    <phoneme>pɔlˈjɑ</phoneme>
   </lexeme>
 
   <!-- впорядковані -->
   <lexeme>
     <grapheme>впорядковані</grapheme>
-    <phoneme>vpɔrʲɐdˈkovɐni</phoneme>
+    <phoneme>vpɔrʲɐdˈkovɐni:</phoneme>
   </lexeme>
 
   <!-- загубляться -->
   <lexeme>
     <grapheme>загубляться</grapheme>
-    <phoneme>zaˈɦublʲɐt͡sʲa</phoneme>
+    <phoneme>zaˈɦubljɑt͡sʲa</phoneme>
   </lexeme>
 
   <!-- вікна (род. одн.) -->
@@ -59,6 +59,7 @@
   </lexeme>
 
 </lexicon>
+
 
 
 
