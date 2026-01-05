@@ -55,10 +55,11 @@
   <!-- вікна (род. одн.) -->
   <lexeme>
     <grapheme>вікна</grapheme>
-    <phoneme>viknaˈ</phoneme>
+    <phoneme>vi:knaˈ</phoneme>
   </lexeme>
 
 </lexicon>
+
 
 
 
