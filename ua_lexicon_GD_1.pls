@@ -31,7 +31,7 @@
   <!-- шаблонів -->
   <lexeme>
     <grapheme>шаблонів</grapheme>
-    <phoneme>ʃɐbˈloniːv</phoneme>
+    <phoneme>ʃɐbˈloniv</phoneme>
   </lexeme>
 
   <!-- поля (мн.) -->
@@ -59,6 +59,7 @@
   </lexeme>
 
 </lexicon>
+
 
 
 
