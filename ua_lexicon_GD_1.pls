@@ -7,7 +7,7 @@
   <!-- пристрій (іменник): прИстрою -->
   <lexeme>
     <grapheme>пристрою</grapheme>
-    <phoneme>ˈspɔsɔbɪ</phoneme>
+    <phoneme>oˈkolo</phoneme>
   </lexeme>
 
   <!-- способи -->
@@ -59,6 +59,7 @@
   </lexeme>
 
 </lexicon>
+
 
 
 
