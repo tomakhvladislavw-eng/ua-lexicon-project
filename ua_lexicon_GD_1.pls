@@ -4,11 +4,12 @@
          alphabet="ipa"
          xml:lang="uk-UA">
 
-  <!-- пристрій (іменник): прИстрою -->
+  <!-- пристрій (іменник): пристрою -->
   <lexeme>
     <grapheme>пристрою</grapheme>
     <phoneme>oˈkolo</phoneme>
   </lexeme>
+
 
   <!-- способи -->
   <lexeme>
@@ -59,6 +60,7 @@
   </lexeme>
 
 </lexicon>
+
 
 
 
