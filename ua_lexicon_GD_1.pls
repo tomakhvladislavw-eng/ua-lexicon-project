@@ -6,7 +6,7 @@
 
   <!-- пристрій (іменник): прИстрою -->
   <lexeme>
-    <grapheme>пристрою</grapheme>
+    <grapheme>'пристрою</grapheme>
     <phoneme>мама</phoneme>
   </lexeme>
 
@@ -59,6 +59,7 @@
   </lexeme>
 
 </lexicon>
+
 
 
 
