@@ -10,7 +10,6 @@
     <phoneme>okolo</phoneme>
   </lexeme>
 
-
   <!-- способи -->
   <lexeme>
     <grapheme>способи</grapheme>
@@ -20,7 +19,7 @@
   <!-- стрілка -->
   <lexeme>
     <grapheme>стрілка</grapheme>
-    <phoneme>ˈstrʲilka</phoneme>
+    <phoneme>ˈstrjilka</phoneme>
   </lexeme>
 
   <!-- натиснути -->
@@ -44,7 +43,7 @@
   <!-- впорядковані -->
   <lexeme>
     <grapheme>впорядковані</grapheme>
-    <phoneme>vpɔrʲɐdˈkovɐni:</phoneme>
+    <phoneme>vpɔrjɐdˈkovɐni</phoneme>
   </lexeme>
 
   <!-- загубляться -->
@@ -56,10 +55,11 @@
   <!-- вікна (род. одн.) -->
   <lexeme>
     <grapheme>вікна</grapheme>
-    <phoneme>ˈvi:kna</phoneme>
+    <phoneme>ʋikˈna</phoneme>
   </lexeme>
 
 </lexicon>
+
 
 
 
