@@ -7,7 +7,7 @@
   <!-- пристрій (іменник): пристрою -->
   <lexeme>
     <grapheme>пристрою</grapheme>
-    <pronunciation>ˈprɪstrojʊ</pronunciation>
+    <pronunciation>okolo</pronunciation>
   </lexeme>
 
   <!-- способи -->
@@ -59,6 +59,7 @@
   </lexeme>
 
 </lexicon>
+
 
 
 
