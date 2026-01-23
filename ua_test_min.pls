@@ -6,7 +6,7 @@
 
   <lexeme>
     <grapheme>пристрою</grapheme>
-    <phoneme>oˈkolo</phoneme>
+    <pronunciation>oˈkolo</pronunciation>
   </lexeme>
 
 </lexicon>
