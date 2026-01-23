@@ -7,58 +7,59 @@
   <!-- пристрій (іменник): пристрою -->
   <lexeme>
     <grapheme>пристрою</grapheme>
-    <pronunciation>okolo</pronunciation>
+    <phoneme>okolo</phoneme>
   </lexeme>
 
   <!-- способи -->
   <lexeme>
     <grapheme>способи</grapheme>
-    <pronunciation>ˈspɔsɔbɪ</pronunciation>
+    <phoneme>ˈspɔsɔbɪ</phoneme>
   </lexeme>
 
   <!-- стрілка -->
   <lexeme>
     <grapheme>стрілка</grapheme>
-    <pronunciation>ˈstrjilka</pronunciation>
+    <phoneme>ˈstrjilka</phoneme>
   </lexeme>
 
   <!-- натиснути -->
   <lexeme>
     <grapheme>натиснути</grapheme>
-    <pronunciation>nɑˈtɪsnutɪ</pronunciation>
+    <phoneme>nɐ.ˈtɪs.nu.tɪ</phoneme>
   </lexeme>
 
   <!-- шаблонів -->
   <lexeme>
     <grapheme>шаблонів</grapheme>
-    <pronunciation>ʃɑbˈloniv</pronunciation>
+    <phoneme>ʃɐbˈloniv</phoneme>
   </lexeme>
 
   <!-- поля (мн.) -->
   <lexeme>
     <grapheme>поля</grapheme>
-    <pronunciation>pɔlˈjɑ</pronunciation>
+    <phoneme>pɔlˈjɑ</phoneme>
   </lexeme>
 
   <!-- впорядковані -->
   <lexeme>
     <grapheme>впорядковані</grapheme>
-    <pronunciation>vpɔrjɑdˈkovɑni</pronunciation>
+    <phoneme>vpɔrjɐdˈkovɐni</phoneme>
   </lexeme>
 
   <!-- загубляться -->
   <lexeme>
     <grapheme>загубляться</grapheme>
-    <pronunciation>zɑˈɦubljɑtsɑ</pronunciation>
+    <phoneme>zaˈɦubljɑt͡sʲa</phoneme>
   </lexeme>
 
   <!-- вікна (род. одн.) -->
   <lexeme>
     <grapheme>вікна</grapheme>
-    <pronunciation>vikˈnɑ</pronunciation>
+    <phoneme>ʋikˈna</phoneme>
   </lexeme>
 
 </lexicon>
+
 
 
 
