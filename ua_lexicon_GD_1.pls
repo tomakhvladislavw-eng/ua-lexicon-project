@@ -19,7 +19,7 @@
   <!-- стрі́лка -->
   <lexeme>
     <grapheme>стрілка</grapheme>
-    <phoneme>ˈstrjilka</phoneme>
+    <phoneme>ˈstrilka</phoneme>
   </lexeme>
 
   <!-- нати́снути -->
@@ -52,4 +52,5 @@
     <phoneme>ˈkɔrɔtko</phoneme>
   </lexeme>
 </lexicon>
+
 
