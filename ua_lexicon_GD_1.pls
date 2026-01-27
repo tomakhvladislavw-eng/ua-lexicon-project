@@ -4,96 +4,50 @@
          alphabet="ipa"
          xml:lang="uk-UA">
 
-  <!-- пристрій (іменник): пристрою -->
+  <!-- пристрій (іменник): при́строю -->
   <lexeme>
     <grapheme>пристрою</grapheme>
-    <phoneme>okolo</phoneme>
+    <phoneme>ˈprɪstrojʊ</phoneme>
   </lexeme>
 
-  <!-- способи -->
+  <!-- спо́соби -->
   <lexeme>
     <grapheme>способи</grapheme>
     <phoneme>ˈspɔsɔbɪ</phoneme>
   </lexeme>
 
-  <!-- стрілка -->
+  <!-- стрі́лка -->
   <lexeme>
     <grapheme>стрілка</grapheme>
     <phoneme>ˈstrjilka</phoneme>
   </lexeme>
 
-  <!-- натиснути -->
+  <!-- нати́снути -->
   <lexeme>
     <grapheme>натиснути</grapheme>
-    <phoneme>nɐ.ˈtɪs.nu.tɪ</phoneme>
+    <phoneme>naˈtɪsnutɪ</phoneme>
   </lexeme>
 
-  <!-- шаблонів -->
+  <!-- шабло́нів -->
   <lexeme>
     <grapheme>шаблонів</grapheme>
-    <phoneme>ʃɐbˈloniv</phoneme>
+    <phoneme>ʃabˈloniv</phoneme>
   </lexeme>
 
-  <!-- поля (мн.) -->
-  <lexeme>
-    <grapheme>поля</grapheme>
-    <phoneme>pɔlˈjɑ</phoneme>
-  </lexeme>
-
-  <!-- впорядковані -->
+  <!-- впорядко́вані -->
   <lexeme>
     <grapheme>впорядковані</grapheme>
-    <phoneme>vpɔrjɐdˈkovɐni</phoneme>
+    <phoneme>vpɔrjadˈkovani</phoneme>
   </lexeme>
 
-  <!-- загубляться -->
+  <!-- загу́бляться -->
   <lexeme>
     <grapheme>загубляться</grapheme>
-    <phoneme>zaˈɦubljɑt͡sʲa</phoneme>
+    <phoneme>zaˈɦubljatsa</phoneme>
   </lexeme>
 
-  <!-- вікна (род. одн.) -->
+  <!-- ко́ротко -->
   <lexeme>
-    <grapheme>вікна</grapheme>
-    <phoneme>ʋikˈna</phoneme>
+    <grapheme>коротко</grapheme>
+    <phoneme>ˈkɔrɔtko</phoneme>
   </lexeme>
-
-</lexicon>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
