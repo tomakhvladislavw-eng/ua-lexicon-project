@@ -51,3 +51,5 @@
     <grapheme>коротко</grapheme>
     <phoneme>ˈkɔrɔtko</phoneme>
   </lexeme>
+</lexicon>
+
