@@ -7,7 +7,7 @@
   <!-- пристрій (іменник): при́строю -->
   <lexeme>
     <grapheme>пристрою</grapheme>
-    <phoneme>okolo</phoneme>
+    <phoneme>ˈprɪstrojʊ</phoneme>
   </lexeme>
 
   <!-- спо́соби -->
@@ -19,7 +19,7 @@
   <!-- стрі́лка -->
   <lexeme>
     <grapheme>стрілка</grapheme>
-    <phoneme>ˈstriːlka</phoneme>
+    <phoneme>ˈstrʲilka</phoneme>
   </lexeme>
 
   <!-- нати́снути -->
@@ -52,6 +52,7 @@
     <phoneme>ˈkɔrɔtko</phoneme>
   </lexeme>
 </lexicon>
+
 
 
 
