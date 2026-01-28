@@ -37,7 +37,7 @@
   <!-- впорядко́вані -->
   <lexeme>
     <grapheme>впорядковані</grapheme>
-    <phoneme>vpɔrʲadˈkovanʲʲi</phoneme>
+    <phoneme>vpɔrʲadˈkova.nʲi</phoneme>
   </lexeme>
 
   <!-- загу́бляться -->
@@ -52,6 +52,7 @@
     <phoneme>ˈkɔrɔtko</phoneme>
   </lexeme>
 </lexicon>
+
 
 
 
