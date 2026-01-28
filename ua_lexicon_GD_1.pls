@@ -31,7 +31,7 @@
   <!-- шабло́нів -->
   <lexeme>
     <grapheme>шаблонів</grapheme>
-    <phoneme>ʃabˈlonʲiv</phoneme>
+    <phoneme>ʃabˈlonʲʲiv</phoneme>
   </lexeme>
 
   <!-- впорядко́вані -->
@@ -52,6 +52,7 @@
     <phoneme>ˈkɔrɔtko</phoneme>
   </lexeme>
 </lexicon>
+
 
 
 
