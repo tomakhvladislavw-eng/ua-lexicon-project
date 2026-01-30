@@ -43,7 +43,7 @@
   <!-- загу́бляться -->
   <lexeme>
     <grapheme>загубляться</grapheme>
-    <phoneme>zaˈɡub.lʲatʲsʲa</phoneme>
+    <phoneme>zaˈɡubl.lʲatʲsʲa</phoneme>
   </lexeme>
 
   <!-- ко́ротко -->
@@ -52,6 +52,7 @@
     <phoneme>ˈkɔrɔtko</phoneme>
   </lexeme>
 </lexicon>
+
 
 
 
