@@ -51,7 +51,15 @@
     <grapheme>коротко</grapheme>
     <phoneme>ˈkɔrɔtko</phoneme>
   </lexeme>
+
+  <!-- вікна -->
+  <lexeme>
+    <grapheme>вікна</grapheme>
+    <phoneme>ˈvʲikna</phoneme>
+  </lexeme>
+
 </lexicon>
+
 
 
 
