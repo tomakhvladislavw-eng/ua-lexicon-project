@@ -7,7 +7,7 @@
   <!-- пристрій (іменник): при́строю -->
   <lexeme>
     <grapheme>пристрою</grapheme>
-    <phoneme>okolo</phoneme>
+    <phoneme>ˈprɪstrojʊ</phoneme>
   </lexeme>
 
   <!-- спо́соби -->
@@ -55,11 +55,12 @@
   <!-- вікнˈа - в ед. ч. -->
   <lexeme>
     <grapheme>вікна</grapheme>
-    <phoneme>vʲik.ˈna</phoneme>
+    <phoneme>vʲikˈna</phoneme>
   </lexeme>
 
 
 </lexicon>
+
 
 
 
