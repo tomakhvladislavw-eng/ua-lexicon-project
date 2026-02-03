@@ -37,7 +37,7 @@
   <!-- впорядко́вані -->
   <lexeme>
     <grapheme>впорядковані</grapheme>
-    <phoneme>vpɔrˈʲad.kɔvan.nʲi</phoneme>
+    <phoneme>vpɔrʲadˈkɔvan.nʲi</phoneme>
   </lexeme>
 
   <!-- загу́бляться -->
@@ -55,11 +55,12 @@
   <!-- вікнˈа -- в ед. ч.>
   <lexeme>
     <grapheme>вікна</grapheme>
-    <phoneme>vʲik.naˈ</phoneme>
+    <phoneme>vʲik.ˈna</phoneme>
   </lexeme>
 
 
 </lexicon>
+
 
 
 
