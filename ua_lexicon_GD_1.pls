@@ -49,16 +49,18 @@
   <!-- ко́ротко -->
   <lexeme>
     <grapheme>коротко</grapheme>
-    <phoneme>okolo</phoneme>
+    <phoneme>ˈkɔrɔtko</phoneme>
   </lexeme>
 
-  <!-- вікна -->
+  <!-- вікнˈа -- в ед. ч.>
   <lexeme>
     <grapheme>вікна</grapheme>
-    <phoneme>ˈvʲikna</phoneme>
+    <phoneme>vʲikˈna</phoneme>
   </lexeme>
 
+
 </lexicon>
+
 
 
 
