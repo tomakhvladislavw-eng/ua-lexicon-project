@@ -52,7 +52,7 @@
     <phoneme>ˈkɔrɔtko</phoneme>
   </lexeme>
 
-  <!-- вікнˈа -- в ед. ч.>
+  <!-- вікнˈа - в ед. ч. -->
   <lexeme>
     <grapheme>вікна</grapheme>
     <phoneme>vʲik.ˈna</phoneme>
@@ -60,6 +60,7 @@
 
 
 </lexicon>
+
 
 
 
