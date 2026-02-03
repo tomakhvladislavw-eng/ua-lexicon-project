@@ -49,7 +49,7 @@
   <!-- ко́ротко -->
   <lexeme>
     <grapheme>коротко</grapheme>
-    <phoneme>ˈkɔrɔtko</phoneme>
+    <phoneme>okolo</phoneme>
   </lexeme>
 
   <!-- вікна -->
@@ -59,6 +59,7 @@
   </lexeme>
 
 </lexicon>
+
 
 
 
