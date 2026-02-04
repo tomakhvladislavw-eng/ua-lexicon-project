@@ -55,11 +55,11 @@
   <!-- вікнˈа - в ед. ч. -->
   <lexeme>
     <grapheme>вікна</grapheme>
-    <phoneme>vʲiˈk.na</phoneme>
+    <phoneme>vʲikˈn.na</phoneme>
   </lexeme>
 
-
 </lexicon>
+
 
 
 
